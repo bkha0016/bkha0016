@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T-Rexhat
-- 👀 I’m interested in Data Science/Engineering, Data mining, & Apps Development
+- 👀 I’m interested in Data Science/Engineering, Data mining, Full Stack Development, Machine Learning/AI
 - 🌱 I’m currently learning Java, Python, SQL, & WebDev(HTML,CSS,JS)
 
 <!---
