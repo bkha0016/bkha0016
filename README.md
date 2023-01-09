@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T-Rexhat
+- 👋 Hi, I’m @bkha0016
 - 👀 I’m interested in Data Science/Engineering, Data mining, Full Stack Development, Machine Learning/AI
 - 🌱 I’m currently learning Java, Python, SQL, & WebDev(HTML,CSS,JS)
 
