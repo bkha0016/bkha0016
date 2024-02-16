@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @bkha0016
-- 👀 I’m interested in Data Science/Engineering, Data mining, Full Stack Development, Machine Learning/AI
-- 🌱 I’m currently learning Java, Python, SQL, & WebDev(HTML,CSS,JS)
+- 👀 I’m currently interested in Big Data, Data mining, LLM, VR/AR 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-![Byran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkha0016&show_icons=true&theme=radical&hide_rank=true) 
+![Byran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkha0016&show_icons=true&theme=radical&hide_rank=true) &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkha0016&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
