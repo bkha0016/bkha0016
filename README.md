@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bkha0016
-- 👀 I’m currently interested in Big Data, Data mining, LLM, VR/AR 
+- I'm currently learning about Digital Logic & CAD Design
+- 👀 Interested in Big Data, Data mining, LLM, VR/AR, & IOT 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
