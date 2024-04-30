@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bkha0016
-- I'm currently learning about Digital Logic & CAD Design
+- I'm currently learning about Digital Logic & CAD Design & DSA from GrookingAlgoritmBook (Github will be inactive for ~1 months)
 - 👀 Interested in Big Data, Data mining, LLM, VR/AR, & IOT 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
